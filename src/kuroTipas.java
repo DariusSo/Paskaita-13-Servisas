@@ -1,4 +1,6 @@
 public enum kuroTipas {
     DYZELIS,
-    BENZINAS
+    BENZINAS,
+    ELEKTRA,
+    HIBRIDAS
 }

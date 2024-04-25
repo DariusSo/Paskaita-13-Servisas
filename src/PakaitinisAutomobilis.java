@@ -10,6 +10,6 @@ public class PakaitinisAutomobilis extends Automobilis{
     }
     @Override
     public String toString(){
-        return "Marke" + getMarke() + " | Modelis: " + getModelis() + " | Metai: " + getMetai() + " | Kuro tipas: " + getKuroTipas() + " | Rida: " + rida;
+        return "Marke: " + getMarke() + " | Modelis: " + getModelis() + " | Metai: " + getMetai() + " | Kuro tipas: " + getKuroTipas() + " | Rida: " + rida;
     }
 }
